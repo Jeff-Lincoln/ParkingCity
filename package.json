@@ -10,7 +10,9 @@
   },
   "dependencies": {
     "@gorhom/bottom-sheet": "^4.6.0",
+    "@types/react": "~18.2.45",
     "expo": "~50.0.4",
+    "expo-font": "~11.10.2",
     "expo-status-bar": "~1.11.1",
     "react": "18.2.0",
     "react-native": "0.73.2",
@@ -18,10 +20,12 @@
     "react-native-maps": "^1.10.0",
     "react-native-reanimated": "~3.6.2",
     "typescript": "^5.3.0",
-    "@types/react": "~18.2.45"
+    "react-native-web": "~0.19.6",
+    "@expo/metro-runtime": "~3.1.1"
   },
   "devDependencies": {
-    "@babel/core": "^7.20.0"
+    "@babel/core": "^7.20.0",
+    "@types/react-native": "^0.73.0"
   },
   "private": true
 }
